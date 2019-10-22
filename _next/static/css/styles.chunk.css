@@ -7338,7 +7338,9 @@ h1.title {
 .stats-section-container {
   padding-top: 50px;
   z-index: 2;
-  background-color: #3F4346; }
+  background-color: #3F4346;
+  padding-left: 30px;
+  padding-right: 30px; }
 
 html, body {
   height: 100%; }
